@@ -2,10 +2,10 @@
  
 ## Build
 ```
-gcc .\src\ppid_spoofer.c -o ppid_spoofer.exe -s -m64
+gcc .\src\ppid_spoofer.c -o ppid_spoofer_x64.exe -s -m64
 ```
 
 ## Usage
 ```
-ppid_spoofer.exe <Parent PID> <Executable Path> <Arguments>
+ppid_spoofer_x64.exe <Parent PID> <Executable Path> <Arguments>
 ```
